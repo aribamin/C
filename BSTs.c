@@ -1,38 +1,3 @@
-/*
-  CSC A48 - Assignment 2 - BSTs, Traversals, a tiny Sequencer
-
-  For this assignment you will be implementing a fully working
-  BST. The goal is for you to gain practice with one of the most
-  common and more useful data structures you can find.
-
-  The data we will store in the BST corresponds to musical notes
-  from a little song, and we have provided (in a separate .c
-  file) a very small implementation of a program to making 
-  sounds from each of these musical notes.
-
-  ** YOU DO NOT NEED TO look at that code
-  ** Everything in 'NoteSynth.c' is provided
-  ** just so you can listen to the data in your
-  ** BST - but you do not need to look at it for
-  ** this assignment, and you're not expected 
-  ** to learn or understand that code.
-
-  You can, however, learn from it if you're curious about how
-  sound can be synthesized. Don't spend time on that unless you
-  have completed everything else.
-
-  Read carefully the comments and descriptions in this starter
-  code, as they constitute the specification of what you need
-  to do to complete the assignment.
-
-  - Like A1, we will provide a test driver for you to test your
-    code. Also like A1, that test driver contains a subset of the
-    tests we will be running. You are responsible for running 
-    additional tests to ensure your BST works properly!
-
-    Updated Feb. 2022 (c) F. Estrada
-*/
-
 #include<stdio.h>
 #include<stdlib.h>
 #include"NoteSynth.c"
